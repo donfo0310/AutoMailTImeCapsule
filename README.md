@@ -1,0 +1,2 @@
+# AutoMailTImeCapsule
+TimeCapsuleをメールで送信できるようにしたアプリ
