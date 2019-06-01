@@ -1,0 +1,57 @@
+/* Class = "UIButton"; normalTitle = "other adress"; ObjectID = "0CK-Ft-aJD"; */
+"0CK-Ft-aJD.normalTitle" = "他のアドレス";
+
+/* Class = "UILabel"; text = "recever's e-mail adress"; ObjectID = "0eU-Kb-Xu0"; */
+"0eU-Kb-Xu0.text" = "受信者のメールアドレス";
+
+/* Class = "UILabel"; text = "write name of receiver"; ObjectID = "2Ai-md-DP7"; */
+"2Ai-md-DP7.text" = "受信者の名前";
+
+/* Class = "UIButton"; normalTitle = "detail"; ObjectID = "2TH-CU-sdF"; */
+"2TH-CU-sdF.normalTitle" = "詳細";
+
+/* Class = "UIButton"; normalTitle = "send"; ObjectID = "5h4-xp-kVy"; */
+"5h4-xp-kVy.normalTitle" = "送る";
+
+/* Class = "UILabel"; text = "times"; ObjectID = "5iB-2S-Uwu"; */
+"5iB-2S-Uwu.text" = "回送る";
+
+/* Class = "UILabel"; text = "write your name"; ObjectID = "CHO-Tb-a9L"; */
+"CHO-Tb-a9L.text" = "送信者の名前";
+
+/* Class = "UILabel"; text = "You send"; ObjectID = "DMr-50-mM9"; */
+"DMr-50-mM9.text" = "メールを";
+
+/* Class = "UILabel"; text = "user name"; ObjectID = "GRb-i1-ge3"; */
+"GRb-i1-ge3.text" = "ユーザーネーム";
+
+/* Class = "UILabel"; text = "sender's e-mail adress"; ObjectID = "KNW-gM-YzE"; */
+"KNW-gM-YzE.text" = "送信者のメールアドレス";
+
+/* Class = "UILabel"; text = "host name"; ObjectID = "Mjr-Cd-ndq"; */
+"Mjr-Cd-ndq.text" = "ホストネーム";
+
+/* Class = "UILabel"; text = "subject of e-mail"; ObjectID = "P4y-Fe-BIf"; */
+"P4y-Fe-BIf.text" = "件名";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Vqj-n9-zzN"; */
+"Vqj-n9-zzN.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "sender's password"; ObjectID = "evy-81-JD8"; */
+"evy-81-JD8.text" = "送信メールのパスワード";
+
+/* Class = "UIButton"; normalTitle = "guide"; ObjectID = "fp5-dz-vwA"; */
+"fp5-dz-vwA.normalTitle" = "案内";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "gUd-Kx-f2F"; */
+"gUd-Kx-f2F.normalTitle" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "iI3-ue-doC"; */
+"iI3-ue-doC.normalTitle" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "ibG-dc-eSD"; */
+"ibG-dc-eSD.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "tOe-tg-eW2"; */
+"tOe-tg-eW2.normalTitle" = "戻る";
+

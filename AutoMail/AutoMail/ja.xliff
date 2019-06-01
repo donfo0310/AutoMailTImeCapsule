@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="AutoMail/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="AutoMail/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="0CK-Ft-aJD.normalTitle">
+        <source>other adress</source>
+        <target>other adress</target>
+        <note>Class = "UIButton"; normalTitle = "other adress"; ObjectID = "0CK-Ft-aJD";</note>
+      </trans-unit>
+      <trans-unit id="0eU-Kb-Xu0.text">
+        <source>recever's e-mail adress</source>
+        <target>recever's e-mail adress</target>
+        <note>Class = "UILabel"; text = "recever's e-mail adress"; ObjectID = "0eU-Kb-Xu0";</note>
+      </trans-unit>
+      <trans-unit id="2Ai-md-DP7.text">
+        <source>write name of receiver</source>
+        <target>write name of receiver</target>
+        <note>Class = "UILabel"; text = "write name of receiver"; ObjectID = "2Ai-md-DP7";</note>
+      </trans-unit>
+      <trans-unit id="2TH-CU-sdF.normalTitle">
+        <source>detail</source>
+        <target>detail</target>
+        <note>Class = "UIButton"; normalTitle = "detail"; ObjectID = "2TH-CU-sdF";</note>
+      </trans-unit>
+      <trans-unit id="5h4-xp-kVy.normalTitle">
+        <source>send</source>
+        <target>send</target>
+        <note>Class = "UIButton"; normalTitle = "send"; ObjectID = "5h4-xp-kVy";</note>
+      </trans-unit>
+      <trans-unit id="5iB-2S-Uwu.text">
+        <source>times</source>
+        <target>times</target>
+        <note>Class = "UILabel"; text = "times"; ObjectID = "5iB-2S-Uwu";</note>
+      </trans-unit>
+      <trans-unit id="CHO-Tb-a9L.text">
+        <source>write your name</source>
+        <target>write your name</target>
+        <note>Class = "UILabel"; text = "write your name"; ObjectID = "CHO-Tb-a9L";</note>
+      </trans-unit>
+      <trans-unit id="DMr-50-mM9.text">
+        <source>You send</source>
+        <target>You send</target>
+        <note>Class = "UILabel"; text = "You send"; ObjectID = "DMr-50-mM9";</note>
+      </trans-unit>
+      <trans-unit id="GRb-i1-ge3.text">
+        <source>user name</source>
+        <target>user name</target>
+        <note>Class = "UILabel"; text = "user name"; ObjectID = "GRb-i1-ge3";</note>
+      </trans-unit>
+      <trans-unit id="KNW-gM-YzE.text">
+        <source>sender's e-mail adress</source>
+        <target>sender's e-mail adress</target>
+        <note>Class = "UILabel"; text = "sender's e-mail adress"; ObjectID = "KNW-gM-YzE";</note>
+      </trans-unit>
+      <trans-unit id="Mjr-Cd-ndq.text">
+        <source>host name</source>
+        <target>host name</target>
+        <note>Class = "UILabel"; text = "host name"; ObjectID = "Mjr-Cd-ndq";</note>
+      </trans-unit>
+      <trans-unit id="P4y-Fe-BIf.text">
+        <source>subject of e-mail</source>
+        <target>subject of e-mail</target>
+        <note>Class = "UILabel"; text = "subject of e-mail"; ObjectID = "P4y-Fe-BIf";</note>
+      </trans-unit>
+      <trans-unit id="Vqj-n9-zzN.normalTitle">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "Vqj-n9-zzN";</note>
+      </trans-unit>
+      <trans-unit id="evy-81-JD8.text">
+        <source>sender's password</source>
+        <target>sender's password</target>
+        <note>Class = "UILabel"; text = "sender's password"; ObjectID = "evy-81-JD8";</note>
+      </trans-unit>
+      <trans-unit id="fp5-dz-vwA.normalTitle">
+        <source>guide</source>
+        <target>guide</target>
+        <note>Class = "UIButton"; normalTitle = "guide"; ObjectID = "fp5-dz-vwA";</note>
+      </trans-unit>
+      <trans-unit id="gUd-Kx-f2F.normalTitle">
+        <source>back</source>
+        <target>back</target>
+        <note>Class = "UIButton"; normalTitle = "back"; ObjectID = "gUd-Kx-f2F";</note>
+      </trans-unit>
+      <trans-unit id="iI3-ue-doC.normalTitle">
+        <source>back</source>
+        <target>back</target>
+        <note>Class = "UIButton"; normalTitle = "back"; ObjectID = "iI3-ue-doC";</note>
+      </trans-unit>
+      <trans-unit id="ibG-dc-eSD.normalTitle">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "ibG-dc-eSD";</note>
+      </trans-unit>
+      <trans-unit id="tOe-tg-eW2.normalTitle">
+        <source>back</source>
+        <target>back</target>
+        <note>Class = "UIButton"; normalTitle = "back"; ObjectID = "tOe-tg-eW2";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AutoMail/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AutoMail/Localizable.strings" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Successfully sent email!">
+        <source>Successfully sent email!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="miss sending e-mail">
+        <source>miss sending e-mail</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="この内容でメールを送信しますか">
+        <source>この内容でメールを送信しますか</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AutoMailTests/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AutoMailUITests/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
